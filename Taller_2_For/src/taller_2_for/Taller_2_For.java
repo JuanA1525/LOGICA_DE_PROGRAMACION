@@ -19,6 +19,7 @@ static Scanner teclado = new Scanner(System.in);
             + "\n3. Suma de Aleatorios"
             + "\n4. Simular Sorteo");
         seleccion = teclado.nextByte();
+
         if(seleccion > 0 && seleccion < 5){
             
             switch (seleccion){

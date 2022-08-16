@@ -76,17 +76,17 @@ public class Taller_1 {
                     int pesos =0;
            
                     //ENTRADAS
-                System.out.println("Buenos Dias. \nPor Favor Digite su valor en PESOS.");
+                    System.out.println("Buenos Dias. \nPor Favor Digite su valor en PESOS.");
                     pesos = teclado.nextInt();
 
                     //PROCESO Y SALIDA
-                System.out.println(Estimar_Cambio(pesos));
+                    System.out.println(Estimar_Cambio(pesos));
                 }break;
                 case 5 : {
                         
                     //VARIABLES
                     int nominador =0;
-                int denominador =0;
+                    int denominador =0;
            
                     //ENTRADAS
                     System.out.println("Buenos Dias. \nPor Favor Digite su DIVIDENDO.");
