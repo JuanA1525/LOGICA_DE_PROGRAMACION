@@ -3,7 +3,7 @@ package parcial2_japv;
 public class Parcial2_JAPV {
 
     public static void main(String[] args) {
-        System.out.println(Pintar_triangulo_inv((byte)25));
+        System.out.println(Pintar_triangulo_inv((byte)10));
         System.out.println(Jugar_21((byte)6));
     }
     
